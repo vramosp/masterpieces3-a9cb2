@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -361,7 +361,6 @@ sections:
     colors: colors-a
     posts:
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     styles:
       self:
         height: auto
