@@ -1,7 +1,10 @@
 ---
 title: What Great Startups Do Differently
 date: '2020-09-26'
-excerpt: Ut expedita iure et iste placeat id consequatur veritatis et saepe voluptas non voluptas nesciunt sed voluptate rerum. Ea deleniti unde et exercitationem voluptatibus non doloribus officiis qui harum eaque.
+excerpt: >-
+  Ut expedita iure et iste placeat id consequatur veritatis et saepe voluptas
+  non voluptas nesciunt sed voluptate rerum. Ea deleniti unde et exercitationem
+  voluptatibus non doloribus officiis qui harum eaque.
 category: content/pages/blog/category/business.md
 featuredImage:
   type: ImageBlock
@@ -15,14 +18,21 @@ bottomSections:
     actions: []
     posts:
       - content/pages/blog/post-one.md
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-five.md
     styles:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
