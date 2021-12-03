@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     variant: variant-c
-    colors: colors-h
+    colors: colors-a
     title: About us
     subtitle: Featured people section example
     actions: []
