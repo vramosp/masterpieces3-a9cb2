@@ -34,38 +34,6 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
   - elementId: ''
-    title: Recent posts
-    variant: variant-b
-    colors: colors-a
-    posts:
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
-  - elementId: ''
     colors: colors-f
     title: Where did everyone go?
     text: >
