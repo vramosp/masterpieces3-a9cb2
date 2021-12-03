@@ -4,10 +4,5 @@
     "firstName": "Mar",
     "lastName": "A.",
     "role": "Artist",
-    "bio": "I love arts and crafts, martial arts, and learning new languages. I  love cats- even though I don't have one- and I am the president of the Cat Club at my school.\n",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/desmond-eagle.jpg",
-        "altText": "Desmond Eagle photo"
-    }
+    "bio": "I love arts and crafts, martial arts, and learning new languages. I  love cats- even though I don't have one- and I am the president of the Cat Club at my school.\n"
 }
