@@ -51,14 +51,6 @@
     "footer": {
         "colors": "colors-c",
         "title": "Masterpieces",
-        "contacts": {
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Our address"
-        },
         "copyrightText": "Powered by Stackbit",
         "primaryLinks": [
             {
