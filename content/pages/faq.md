@@ -9,7 +9,7 @@ sections:
     subtitle: Featured people section example
     actions: []
     people:
-      - content/data/team/desmond-eagle.json
+      - content/data/team/mar-a.json
       - content/data/team/dianne-ameter.json
     styles:
       self:
