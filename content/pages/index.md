@@ -18,7 +18,7 @@ sections:
         altText: Mar's Art
       - label: Layla's Art
         altText: Layla's Art
-        url: /
+        url: /blog/author/layla
         showIcon: false
         icon: arrowRight
         iconPosition: right
