@@ -1,5 +1,5 @@
 ---
-title: Meet the team
+title: Meet the artists
 layout: PageLayout
 sections:
   - elementId: ''
