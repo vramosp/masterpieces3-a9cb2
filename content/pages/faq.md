@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Meet the team
 layout: PageLayout
 sections:
   - elementId: ''
