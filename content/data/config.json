@@ -67,7 +67,9 @@
                 "label": "@layla_andreu",
                 "url": "https://twitter.com/layla_andreu",
                 "altText": "Layla on Twitter",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "twitter",
+                "iconPosition": "left"
             }
         ],
         "socialLinks": [],
