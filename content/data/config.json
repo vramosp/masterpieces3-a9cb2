@@ -50,18 +50,6 @@
     },
     "footer": {
         "colors": "colors-c",
-        "logo": {
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock",
-            "url": "/favicon.svg"
-        },
         "title": "Masterpieces",
         "contacts": {
             "phoneNumber": "850-123-5021",
