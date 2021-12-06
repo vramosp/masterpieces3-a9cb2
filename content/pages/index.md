@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Mar's Art
-        url: 'https://www.stackbit.com/'
+        url: /blog/author/mar
         style: primary
         elementId: hero-main-button
         altText: Mar's Art
