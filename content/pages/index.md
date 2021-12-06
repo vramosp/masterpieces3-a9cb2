@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Masterpieces
 layout: PageLayout
 sections:
   - type: HeroSection
