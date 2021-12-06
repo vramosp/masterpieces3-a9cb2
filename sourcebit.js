@@ -57,6 +57,7 @@ module.exports = {
                                 urlPath,
                                 pageCssClasses: cssClassesFromUrlPath(urlPath)
                             },
+                            
                             ...restProps
                         };
                     });
