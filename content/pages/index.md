@@ -96,7 +96,7 @@ sections:
         justifyContent: center
     title: Latest creations
     variant: variant-a
-    colors: colors-h
+    colors: colors-a
     recentCount: 6
     type: RecentPostsSection
 ---
