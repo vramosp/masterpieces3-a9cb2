@@ -20,7 +20,7 @@ sections:
       type: ImageBlock
       url: /images/masterpieces-artists.jpg
       altText: Masterpieces
-      caption: Image caption
+      caption: Masterpieces
     styles:
       self:
         height: auto
