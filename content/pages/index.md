@@ -16,6 +16,15 @@ sections:
         style: secondary
         elementId: hero-main-button
         altText: Mar's Art
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       type: ImageBlock
       url: /images/masterpieces-artists.jpg
