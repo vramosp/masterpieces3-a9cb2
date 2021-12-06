@@ -57,7 +57,7 @@ module.exports = {
                                 urlPath,
                                 pageCssClasses: cssClassesFromUrlPath(urlPath)
                             },
-                            
+                            title: `${person.firstName}'s Posts`,
                             ...restProps
                         };
                     });
