@@ -17,7 +17,7 @@ sections:
         elementId: hero-main-button
         altText: Mar's Art
       - label: Layla's Art
-        altText: Learn more
+        altText: Layla's Art
         url: /
         showIcon: false
         icon: arrowRight
