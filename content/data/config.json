@@ -58,7 +58,8 @@
                 "label": "@plunchinita",
                 "url": "https://twitter.com/plunchinita",
                 "altText": "Mar on Twitter",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "twitter"
             },
             {
                 "type": "Link",
