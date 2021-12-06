@@ -59,7 +59,8 @@
                 "url": "https://twitter.com/plunchinita",
                 "altText": "Mar on Twitter",
                 "showIcon": true,
-                "icon": "twitter"
+                "icon": "twitter",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
