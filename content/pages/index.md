@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Mar's Art
         url: /blog/author/mar
-        style: primary
+        style: secondary
         elementId: hero-main-button
         altText: Mar's Art
     media:
