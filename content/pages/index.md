@@ -11,7 +11,7 @@ sections:
       you will be able to enjoy some of their masterpieces.
     actions:
       - type: Button
-        label: Mar
+        label: Mar's Art
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
