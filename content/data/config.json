@@ -66,15 +66,7 @@
                 "altText": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "url": "/",
-                "showIcon": true,
-                "icon": "facebook"
-            }
-        ],
+        "socialLinks": [],
         "legalLinks": [
             {
                 "type": "Link",
