@@ -15,6 +15,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        altText: Mar's Art
     media:
       type: ImageBlock
       url: /images/masterpieces-artists.jpg
