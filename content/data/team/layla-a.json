@@ -1,0 +1,20 @@
+{
+    "type": "Person",
+    "slug": "layla",
+    "firstName": "Layla",
+    "lastName": "A",
+    "role": "Artist",
+    "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.",
+    "image": {
+        "url": "/images/AD188AED-7D30-4196-BE0B-3BEB384A6E67_1_105_c.jpeg",
+        "altText": "Layla A.",
+        "caption": "Layla A., Artist",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "opacity": 100
+            }
+        },
+        "type": "ImageBlock"
+    }
+}
