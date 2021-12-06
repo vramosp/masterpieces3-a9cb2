@@ -10,7 +10,7 @@ sections:
     actions: []
     people:
       - content/data/team/mar-a.json
-      - content/data/team/dianne-ameter.json
+      - content/data/team/layla-a.json
     styles:
       self:
         height: auto
