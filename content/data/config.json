@@ -64,12 +64,6 @@
                 "label": "Careers",
                 "url": "/careers",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "socialLinks": [
