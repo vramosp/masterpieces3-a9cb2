@@ -47,8 +47,7 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/favicon.svg"
+            "type": "ImageBlock"
         }
     },
     "footer": {
