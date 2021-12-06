@@ -7,9 +7,8 @@ sections:
     colors: colors-a
     title: Mar and Layla's Masterpieces
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      At a very young age, Mar and Layla are already very prolific artists. Here
+      you will be able to enjoy some of their masterpieces.
     actions:
       - type: Button
         label: Sign up
