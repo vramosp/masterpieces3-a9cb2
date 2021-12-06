@@ -21,15 +21,15 @@
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Layla",
                 "altText": "Layla",
                 "url": "/blog/author/layla"
+            },
+            {
+                "type": "Link",
+                "label": "FAQ",
+                "url": "/faq",
+                "altText": ""
             }
         ],
         "secondaryLinks": [
