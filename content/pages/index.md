@@ -118,37 +118,6 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
-  - elementId: ''
-    variant: variant-b
-    colors: colors-a
-    posts:
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
   - colors: colors-f
     elementId: ''
     title: Need Answers?
