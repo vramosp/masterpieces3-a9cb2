@@ -94,7 +94,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Recent Posts
+    title: Latest creations
     subtitle: Latest blog posts section example
     variant: variant-a
     colors: colors-h
