@@ -95,7 +95,6 @@ sections:
       actions:
         justifyContent: center
     title: Latest creations
-    subtitle: Latest blog posts section example
     variant: variant-a
     colors: colors-h
     recentCount: 6
