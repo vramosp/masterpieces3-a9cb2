@@ -5,7 +5,7 @@ excerpt: >-
   Ut expedita iure et iste placeat id consequatur veritatis et saepe voluptas
   non voluptas nesciunt sed voluptate rerum. Ea deleniti unde et exercitationem
   voluptatibus non doloribus officiis qui harum eaque.
-category: content/pages/blog/category/business.md
+category: 
 featuredImage:
   type: ImageBlock
   url: /images/post-8.jpg
