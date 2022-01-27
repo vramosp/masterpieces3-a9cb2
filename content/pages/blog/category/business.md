@@ -1,6 +1,6 @@
 ---
 layout: PostFeedCategoryLayout
-title: Business
+title: Stories
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
