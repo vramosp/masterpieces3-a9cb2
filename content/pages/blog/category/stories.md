@@ -12,5 +12,5 @@ postFeed:
 topSections: []
 bottomSections: []
 layout: PostFeedCategoryLayout
-slug: postfeedcategorylayout-2v9srszzq
+slug: stories
 ---
