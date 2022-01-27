@@ -1,5 +1,5 @@
 ---
-title: I want to see halloween
+title: I want to go to Halloween
 date: '2020-09-26'
 excerpt: >-
   Ut expedita iure et iste placeat id consequatur veritatis et saepe voluptas
