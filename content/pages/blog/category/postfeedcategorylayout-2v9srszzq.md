@@ -1,5 +1,5 @@
 ---
-title: This is a page title
+title: Stories
 numOfPostsPerPage: 10
 postFeed:
   title: null
