@@ -3,7 +3,7 @@ title: Stories
 sections:
   - type: FaqSection
     colors: colors-a
-    title: Need Answers?
+    title: Stories
     subtitle: ''
     items:
       - question: How it this different from what we have today?
