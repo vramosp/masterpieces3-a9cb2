@@ -12,7 +12,7 @@ sections:
           could be motivation, At the office, working together is often a
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
-      - question: How it this different from what we have today?
+      - question: Halloween...
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
