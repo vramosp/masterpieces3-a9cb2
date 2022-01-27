@@ -1,5 +1,5 @@
 ---
-title: stories
+title: Stories
 numOfPostsPerPage: 10
 postFeed:
   title: null
