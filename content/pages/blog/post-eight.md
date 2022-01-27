@@ -1,5 +1,5 @@
 ---
-title: What Great Startups Do Differently
+title: I want daddy to fix Halloween
 date: '2020-09-26'
 excerpt: >-
   Ut expedita iure et iste placeat id consequatur veritatis et saepe voluptas
