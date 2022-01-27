@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Stories
 sections:
   - type: FaqSection
     colors: colors-a
