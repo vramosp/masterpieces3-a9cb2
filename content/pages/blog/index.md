@@ -4,7 +4,7 @@ title: Masterpieces
 numOfPostsPerPage: 0
 postFeed:
   showDate: false
-  showAuthor: true
+  showAuthor: false
   variant: variant-a
   colors: colors-a
 ---
