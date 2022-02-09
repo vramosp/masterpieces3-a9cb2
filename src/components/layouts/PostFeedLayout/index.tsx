@@ -21,7 +21,6 @@ export default function PostFeedLayout(props) {
                     </h1>
                 )}
                 {renderSections(topSections, 'topSections')}
-
                 {renderSections(bottomSections, 'bottomSections')}
             </main>
         </BaseLayout>
