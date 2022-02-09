@@ -9,7 +9,7 @@ postFeed:
 topSections:
   - elementId: ''
     variant: variant-c
-    colors: colors-c
+    colors: colors-a
     actions: []
     people:
       - content/data/team/mar-a.json
