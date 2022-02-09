@@ -1,5 +1,5 @@
 ---
-title: MaE0-
+title: Mar-
 numOfPostsPerPage: 10
 postFeed:
   title: null
