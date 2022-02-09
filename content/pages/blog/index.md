@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blogs
+title: Masterpieces
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
