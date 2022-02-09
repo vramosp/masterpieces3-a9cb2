@@ -10,7 +10,6 @@ topSections:
   - elementId: ''
     variant: variant-c
     colors: colors-h
-    title: Meet the artists
     actions: []
     people:
       - content/data/team/mar-a.json
