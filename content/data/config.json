@@ -15,15 +15,15 @@
             },
             {
                 "type": "Link",
-                "label": "Meet the artists",
-                "url": "/blog",
-                "altText": "Meet the artists"
-            },
-            {
-                "type": "Link",
                 "label": "Layla",
                 "altText": "Layla",
                 "url": "/blog/author/layla"
+            },
+            {
+                "type": "Link",
+                "label": "Meet the artists",
+                "url": "/blog",
+                "altText": "Meet the artists"
             }
         ],
         "secondaryLinks": [],
