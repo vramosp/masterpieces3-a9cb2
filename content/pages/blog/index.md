@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 title: Masterpieces
-numOfPostsPerPage: 10
+numOfPostsPerPage: 0
 postFeed:
   showDate: true
   showAuthor: true
