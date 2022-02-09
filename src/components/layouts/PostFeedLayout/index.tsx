@@ -27,7 +27,7 @@ export default function PostFeedLayout(props) {
         </BaseLayout>
     );
 }
-<
+<!--
 function renderSections(sections: any[], fieldName: string) {
     if (sections.length === 0) {
         return null;
