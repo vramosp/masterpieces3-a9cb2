@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Masterpieces
+title: Meet the artists
 numOfPostsPerPage: 0
 postFeed:
   showDate: false
