@@ -1,5 +1,5 @@
 ---
-layout: PageLayout
+layout: PostFeedLayout
 title: Masterpieces
 numOfPostsPerPage: 0
 postFeed:
