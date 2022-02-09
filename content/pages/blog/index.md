@@ -10,7 +10,7 @@ topSections:
   - elementId: ''
     variant: variant-c
     colors: colors-h
-    title: About us
+    title: Meet the artists
     subtitle: Featured people section example
     actions: []
     people:
