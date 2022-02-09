@@ -49,7 +49,8 @@ topSections:
     title: About us
     subtitle: Featured people section example
     actions: []
-    people: []
+    people:
+      - content/data/team/mar-a.json
     styles:
       self:
         height: auto
