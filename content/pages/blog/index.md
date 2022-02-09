@@ -11,7 +11,6 @@ topSections:
     variant: variant-c
     colors: colors-h
     title: Meet the artists
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/mar-a.json
