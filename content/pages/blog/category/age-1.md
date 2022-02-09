@@ -1,5 +1,5 @@
 ---
-title: Age 1
+title: MaE0-
 numOfPostsPerPage: 10
 postFeed:
   title: null
