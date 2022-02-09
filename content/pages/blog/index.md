@@ -6,7 +6,6 @@ postFeed:
   showDate: false
   showAuthor: false
   colors: colors-a
-  variant: variant-d
 topSections:
   - elementId: ''
     colors: colors-a
