@@ -5,7 +5,7 @@ excerpt: >-
   This is a 
 featuredImage:
   type: ImageBlock
-  url: 'images/layla-1/1-colors.jpeg'
+  url: 'images/layla1/1-colors.jpeg'
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
