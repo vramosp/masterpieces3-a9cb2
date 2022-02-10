@@ -69,7 +69,7 @@ sections:
         altText: Image one
         caption: Image one caption
     spacing: 1
-    columns: 4
+    columns: 1
     aspectRatio: '16:9'
     imageSizePx: 300
     showCaption: true
