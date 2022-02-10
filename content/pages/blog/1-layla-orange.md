@@ -1,12 +1,12 @@
 ---
-title: Red
+title: Orange
 date: '2019-02-10'
-excerpt: >-
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/layla1/1-orange.jpeg'
+  url: /images/layla1/1-orange.jpeg
   altText: Orange by Layla
-  caption: 'Orange by Layla'
+  caption: Orange by Layla
 bottomSections: []
 layout: PostLayout
 author: content/data/team/layla-a.json
