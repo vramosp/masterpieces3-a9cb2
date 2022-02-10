@@ -34,7 +34,7 @@ topSections:
           - label: Learn more
             altText: Learn more
             url: /blog/category/layla-1
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
