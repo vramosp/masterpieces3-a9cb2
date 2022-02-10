@@ -58,7 +58,7 @@ topSections:
         actions:
           - label: See all
             altText: Learn more
-            url: /
+            url: /blog/category/
             showIcon: false
             icon: arrowRight
             iconPosition: right
