@@ -6,7 +6,7 @@ featuredImage:
   type: ImageBlock
   url: '/images/layla1/1-colors.jpeg'
   altText: Colors by Layla
-  caption: ''
+  caption: 'Colors by Layla'
 bottomSections: []
 layout: PostLayout
 author: content/data/team/layla-a.json
