@@ -46,7 +46,7 @@ topSections:
           creating.
         featuredImage:
           type: ImageBlock
-          url: /images/layla1/1-colors.jpeg
+          url: /images/layla-2yo.jpg
           altText: Item image
         styles:
           title:
