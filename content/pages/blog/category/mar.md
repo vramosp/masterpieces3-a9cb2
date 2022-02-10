@@ -87,7 +87,7 @@ topSections:
         actions:
           - label: See all
             altText: Learn more
-            url: /blog/category/layla-3
+            url: /blog/category/mar-3
             showIcon: true
             icon: arrowRight
             iconPosition: right
