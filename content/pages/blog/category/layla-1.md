@@ -6,7 +6,6 @@ postFeed:
   subtitle: null
   showDate: false
   showAuthor: false
-  variant: variant-a
   colors: colors-a
   actions: []
 topSections: []
