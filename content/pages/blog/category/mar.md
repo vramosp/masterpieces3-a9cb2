@@ -1,6 +1,6 @@
 ---
 title: Mar's masterpieces
-numOfPostsPerPage: 10
+numOfPostsPerPage: 0
 postFeed:
   title: null
   subtitle: null
