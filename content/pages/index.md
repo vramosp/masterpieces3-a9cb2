@@ -70,7 +70,7 @@ sections:
         caption: Image one caption
     spacing: 1
     columns: 1
-    aspectRatio: '1:1'
+    aspectRatio: '16:9'
     imageSizePx: 479
     showCaption: true
     enableHover: true
