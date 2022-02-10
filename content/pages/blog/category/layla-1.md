@@ -8,6 +8,7 @@ postFeed:
   showAuthor: false
   colors: colors-a
   actions: []
+  variant: variant-a
 topSections: []
 bottomSections: []
 layout: PostFeedCategoryLayout
