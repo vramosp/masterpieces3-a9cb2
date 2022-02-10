@@ -124,14 +124,14 @@ function postsVariantA(props) {
                             <ImageBlock {...post.featuredImage} className="absolute left-0 top-0 h-full w-full object-cover" />
                         </Link>
                         <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                {post.title}
-                            </Link>
+                            {post.title}
+                        </Link>
                     )}
                     <div className="px-4 py-6 sm:px-6 sm:pb-10">
                         {props.showDate && <PostDate post={post} />}
                         <h3>
-                            
-                        </h3>                        
+
+                        </h3>
                     </div>
                 </article>
             ))}
