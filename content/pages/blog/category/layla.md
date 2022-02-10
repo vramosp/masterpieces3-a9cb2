@@ -73,7 +73,7 @@ topSections:
           The year of the scribble scrabbles.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/layla-1yo.jpg
           altText: Item image
         styles:
           title:
