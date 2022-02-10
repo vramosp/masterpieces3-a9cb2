@@ -16,7 +16,7 @@ topSections:
       - type: FeaturedItem
         title: 1 year old
         text: |
-          The year of the scribble scrabbles.
+          The year...
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
