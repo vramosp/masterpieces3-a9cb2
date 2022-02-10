@@ -19,7 +19,7 @@ topSections:
           The year of all the colors of all the rainbows.
         featuredImage:
           type: ImageBlock
-          url: /images/336258FF-620D-4C93-9088-93A280C794DE_1_105_c.jpeg
+          url: /images/layla-3yo.jpeg
           altText: Item image
         styles:
           title:
