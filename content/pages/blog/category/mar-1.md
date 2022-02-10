@@ -1,5 +1,5 @@
 ---
-title: mar-1
+title: Mar - 1 year old
 numOfPostsPerPage: 10
 postFeed:
   title: null
