@@ -55,6 +55,8 @@ topSections:
             textAlign: center
           text:
             textAlign: center
+          actions:
+            justifyContent: center
         actions:
           - label: See all
             altText: Learn more
