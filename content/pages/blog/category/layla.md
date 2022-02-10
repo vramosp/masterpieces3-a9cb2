@@ -12,9 +12,6 @@ postFeed:
 topSections:
   - colors: colors-h
     elementId: ''
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
     items:
       - type: FeaturedItem
         title: Faster
