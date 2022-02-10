@@ -31,5 +31,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    showAuthor: true
 layout: PageLayout
 ---
