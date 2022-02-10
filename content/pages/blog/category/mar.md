@@ -42,7 +42,7 @@ topSections:
       - type: FeaturedItem
         title: 5 years old
         text: |
-          The year of all the colors of all the rainbows.
+          The year we couldn't stop making experiments with baking soda.
         featuredImage:
           type: ImageBlock
           url: /images/mar-5yo.jpg
