@@ -4,7 +4,7 @@ date: '2017-05-17'
 excerpt: >-
 featuredImage:
   type: ImageBlock
-  url: '/images/mar1/3.jpg'
+  url: '/images/mar2/3.jpg'
   altText: Number 3
   caption: 'Number 3'
 bottomSections: []
@@ -12,4 +12,4 @@ layout: PostLayout
 author: content/data/team/mar-a.json
 category: content/pages/blog/category/mar-2.md
 ---
-<img src="/images/mar1/3.jpg">
+<img src="/images/mar2/3.jpg">
