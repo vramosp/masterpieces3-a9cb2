@@ -70,7 +70,7 @@ sections:
     columns: 1
     aspectRatio: auto
     imageSizePx: 640
-    showCaption: true
+    showCaption: false
     enableHover: true
     styles:
       self:
