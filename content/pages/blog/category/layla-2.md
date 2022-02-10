@@ -1,5 +1,5 @@
 ---
-title: This is a page title
+title: Layla - 2 years old
 numOfPostsPerPage: 10
 postFeed:
   title: null
