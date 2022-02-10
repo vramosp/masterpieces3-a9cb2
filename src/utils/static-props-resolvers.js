@@ -76,12 +76,7 @@ const StaticPropsResolvers = {
             ...props,
             ...paginationData,
             items,
-            layout: 'PageLayout',
-            postFeed: {
-                showAuthor: true,
-                showDate: true,
-                variant: 'variant-d',
-            }
+            layout: 'PageLayout'
         };
     },
     RecentPostsSection: (props, data) => {
