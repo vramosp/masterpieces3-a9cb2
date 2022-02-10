@@ -151,7 +151,7 @@ topSections:
           The year of all the colors of all the rainbows.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/96C62FE7-2E6A-446E-90F7-F22EF5D31AD0_1_105_c.jpeg
           altText: Item image
         styles:
           title:
