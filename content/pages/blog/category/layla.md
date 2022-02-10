@@ -79,6 +79,15 @@ topSections:
             textAlign: center
           text:
             textAlign: center
+        actions:
+          - label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
     actions: []
     columns: 3
     styles:
