@@ -92,33 +92,32 @@ topSections:
             iconPosition: right
             elementId: ''
             type: Link
-      - elementId: ''
-        title: Item Title
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        author: ''
-        rating: 1
-        isRatingVisible: false
+      - type: FeaturedItem
+        title: 3 years old
+        text: |
+          The year...
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/focused.svg
           altText: Item image
-        actions: []
         styles:
           title:
-            textAlign: left
+            textAlign: center
           subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
+            textAlign: center
           text:
-            textAlign: left
+            textAlign: center
           actions:
-            justifyContent: flex-start
+            justifyContent: center
+        actions:
+          - label: See all
+            altText: Learn more
+            url: /blog/category/layla-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
       - elementId: ''
         title: Item Title
         subtitle: ''
