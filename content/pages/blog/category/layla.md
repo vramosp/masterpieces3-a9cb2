@@ -31,7 +31,7 @@ topSections:
           actions:
             justifyContent: center
         actions:
-          - label: Learn more
+          - label: See all masterpieces
             altText: Learn more
             url: /blog/category/layla-1
             showIcon: true
