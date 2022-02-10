@@ -1,5 +1,5 @@
 ---
-title: This is a page title
+title: Mar's masterpieces
 numOfPostsPerPage: 10
 postFeed:
   title: null
