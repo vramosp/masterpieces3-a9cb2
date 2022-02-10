@@ -40,7 +40,7 @@ topSections:
             elementId: ''
             type: Link
       - type: FeaturedItem
-        title: 3 years old
+        title: 5 years old
         text: |
           The year of all the colors of all the rainbows.
         featuredImage:
