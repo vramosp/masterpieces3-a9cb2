@@ -132,11 +132,7 @@ function postsVariantA(props) {
                             </Link>
                         </h3>
                         <PostAttribution showAuthor={props.showAuthor} post={post} />
-                        {post.excerpt && (
-                            <p className="mt-3" data-sb-field-path="excerpt">
-                                {post.excerpt}
-                            </p>
-                        )}
+                        
                     </div>
                 </article>
             ))}
