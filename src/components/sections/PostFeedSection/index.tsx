@@ -131,7 +131,6 @@ function postsVariantA(props) {
                                 {post.title}
                             </Link>
                         </h3>
-                        <PostAttribution showAuthor={props.showAuthor} post={post} />
                         
                     </div>
                 </article>
