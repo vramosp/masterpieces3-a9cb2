@@ -1,5 +1,5 @@
 ---
-title: This is a page title
+title: Layla's Masterpieces
 numOfPostsPerPage: 10
 postFeed:
   title: null
