@@ -1,6 +1,6 @@
 ---
 title: layla-1
-numOfPostsPerPage: 10
+numOfPostsPerPage: 0
 postFeed:
   title: null
   subtitle: null
