@@ -48,6 +48,7 @@ topSections:
           type: ImageBlock
           url: /images/layla-2yo.jpg
           altText: Layla 2
+          caption: Layla 2
         styles:
           title:
             textAlign: center
