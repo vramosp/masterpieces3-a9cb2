@@ -37,7 +37,6 @@ topSections:
             iconPosition: right
             elementId: ''
             type: Link
-            justifyContent: 'center'
       - type: FeaturedItem
         title: 2 years old
         text: >
