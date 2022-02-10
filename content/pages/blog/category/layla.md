@@ -34,7 +34,7 @@ topSections:
             url: /blog/category/layla-1
             showIcon: false
             icon: arrowRight
-            iconPosition: center
+            iconPosition: right
             elementId: ''
             type: Link
       - type: FeaturedItem
