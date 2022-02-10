@@ -64,7 +64,7 @@ sections:
     subtitle: ''
     actions: []
     backgroundImage:
-      url: /images/faster.svg
+      url: /images/art.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
