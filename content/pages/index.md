@@ -71,7 +71,7 @@ sections:
     aspectRatio: auto
     imageSizePx: 640
     showCaption: false
-    enableHover: true
+    enableHover: false
     styles:
       self:
         height: auto
