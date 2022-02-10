@@ -61,7 +61,6 @@ sections:
         justifyContent: flex-start
   - colors: colors-a
     elementId: ''
-    title: Gallery
     images:
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
