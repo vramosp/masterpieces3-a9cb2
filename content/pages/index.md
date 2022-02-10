@@ -67,10 +67,6 @@ sections:
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero image
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image
