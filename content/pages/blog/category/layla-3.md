@@ -1,6 +1,6 @@
 ---
 title: Layla - 3 years old
-numOfPostsPerPage: 10
+numOfPostsPerPage: 0
 postFeed:
   title: null
   subtitle: null
