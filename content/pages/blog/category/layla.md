@@ -80,7 +80,7 @@ topSections:
           text:
             textAlign: center
         actions:
-          - label: Learn more
+          - label: See all
             altText: Learn more
             url: /
             showIcon: false
