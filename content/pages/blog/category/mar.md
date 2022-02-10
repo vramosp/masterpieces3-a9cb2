@@ -93,7 +93,7 @@ topSections:
             iconPosition: right
             elementId: ''
             type: Link
-        - type: FeaturedItem
+      - type: FeaturedItem
         title: 3 years old
         text: |
           The year of all the colors of all the rainbows.
