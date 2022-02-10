@@ -1,5 +1,5 @@
 ---
-title: Layla's Masterpieces
+title: Mar's Masterpieces
 numOfPostsPerPage: 10
 postFeed:
   title: null
