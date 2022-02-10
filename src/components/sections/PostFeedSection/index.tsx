@@ -130,7 +130,7 @@ function postsVariantA(props) {
                             <Link href={getPageUrlPath(post)} data-sb-field-path="title">
                                 {post.title}
                             </Link>
-                        </h1>
+                        </h2>
                     </div>
                 </article>
             ))}
