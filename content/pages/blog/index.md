@@ -10,16 +10,7 @@ topSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    actions:
-      - label: Learn more
-        altText: Learn more
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     people:
       - content/data/team/mar-a.json
       - content/data/team/layla-a.json
