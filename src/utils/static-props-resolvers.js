@@ -76,7 +76,7 @@ const StaticPropsResolvers = {
             ...props,
             ...paginationData,
             items,
-            layout: 'PostFeedLayout',
+            layout: 'PageLayout',
             postFeed: {
                 showAuthor: true,
                 showDate: true,
