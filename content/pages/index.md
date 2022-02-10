@@ -59,39 +59,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-a
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
-        altText: Image one
-        caption: Image one caption
-    spacing: 1
-    columns: 1
-    aspectRatio: auto
-    imageSizePx: 640
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - colors: colors-h
     elementId: ''
     title: Need Answers?
