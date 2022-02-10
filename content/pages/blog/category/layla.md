@@ -46,7 +46,7 @@ topSections:
           creating.
         featuredImage:
           type: ImageBlock
-          url: /images/smarter.svg
+          url: /images/layla1/1-colors.jpeg
           altText: Item image
         styles:
           title:
