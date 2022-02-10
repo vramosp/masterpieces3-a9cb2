@@ -73,7 +73,7 @@ topSections:
           The year of all the colors of all the rainbows.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/mar-3yo.jpg
           altText: Item image
         styles:
           title:
