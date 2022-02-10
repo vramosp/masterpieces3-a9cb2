@@ -15,9 +15,8 @@ topSections:
     items:
       - type: FeaturedItem
         title: 1 year old
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          The year of the scribble scrabbles.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
