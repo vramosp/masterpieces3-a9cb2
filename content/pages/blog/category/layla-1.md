@@ -4,7 +4,7 @@ numOfPostsPerPage: 0
 postFeed:
   title: null
   subtitle: null
-  showDate: true
+  showDate: false
   showAuthor: true
   variant: variant-a
   colors: colors-a
