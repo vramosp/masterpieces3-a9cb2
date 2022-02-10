@@ -148,7 +148,7 @@ topSections:
       - type: FeaturedItem
         title: 1 year old
         text: |
-          The year of the scribble scrabbles.
+          The year we found out we had a little artist at home.
         featuredImage:
           type: ImageBlock
           url: /images/mar-1yo.JPG
