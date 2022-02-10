@@ -14,32 +14,6 @@ topSections:
     elementId: ''
     items:
       - type: FeaturedItem
-        title: 1 year old
-        text: |
-          The year of the scribble scrabbles.
-        featuredImage:
-          type: ImageBlock
-          url: /images/faster.svg
-          altText: Item image
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
-          actions:
-            justifyContent: center
-        actions:
-          - label: See all
-            altText: Learn more
-            url: /blog/category/layla-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-            type: Link
-      - type: FeaturedItem
         title: 2 years old
         text: >
           The year where we got stuck at home together and never stopped
@@ -88,6 +62,32 @@ topSections:
           - label: See all
             altText: Learn more
             url: /blog/category/layla-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
+      - type: FeaturedItem
+        title: 1 year old
+        text: |
+          The year of the scribble scrabbles.
+        featuredImage:
+          type: ImageBlock
+          url: /images/faster.svg
+          altText: Item image
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+          actions:
+            justifyContent: center
+        actions:
+          - label: See all
+            altText: Learn more
+            url: /blog/category/layla-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
