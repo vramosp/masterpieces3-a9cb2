@@ -69,7 +69,7 @@ topSections:
       - type: FeaturedItem
         title: 3 years old
         text: |
-          The year of all the colors of all the rainbows.
+          The year...
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
