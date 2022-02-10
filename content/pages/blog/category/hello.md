@@ -1,5 +1,5 @@
 ---
-title: layla-1
+title: hello
 numOfPostsPerPage: 10
 postFeed:
   title: null
