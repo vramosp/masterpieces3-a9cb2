@@ -61,7 +61,6 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: Love where you work
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
