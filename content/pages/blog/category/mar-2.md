@@ -6,7 +6,7 @@ postFeed:
   subtitle: null
   showDate: true
   showAuthor: true
-  variant: variant-d
+  variant: variant-a
   colors: colors-a
   actions: []
 topSections: []
