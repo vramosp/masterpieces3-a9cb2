@@ -46,7 +46,7 @@ topSections:
           creating.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/mar-2yo.JPG
           altText: Layla 2
           caption: Layla 2
         styles:
