@@ -82,10 +82,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-5
+          - pb-5
+          - pl-5
+          - pr-5
         alignItems: center
         justifyContent: center
         flexDirection: row
