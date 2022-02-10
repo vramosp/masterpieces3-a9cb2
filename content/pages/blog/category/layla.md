@@ -46,9 +46,8 @@ topSections:
             textAlign: center
       - type: FeaturedItem
         title: 3 years old
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          The year of all the colors of all the rainbows.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
