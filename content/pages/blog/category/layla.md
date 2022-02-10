@@ -31,7 +31,7 @@ topSections:
         actions:
           - label: Learn more
             altText: Learn more
-            url: /
+            url: /blog/category/layla
             showIcon: false
             icon: arrowRight
             iconPosition: right
