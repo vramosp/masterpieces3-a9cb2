@@ -1,6 +1,6 @@
 ---
 title: Mar - 2 years old
-numOfPostsPerPage: 0
+numOfPostsPerPage: 10
 postFeed:
   title: null
   subtitle: null
