@@ -5,7 +5,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: '/images/layla1/1-colors.jpeg'
-  altText: Post thumbnail image
+  altText: Colors by Layla
   caption: ''
 bottomSections: []
 layout: PostLayout
