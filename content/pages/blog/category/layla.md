@@ -28,6 +28,8 @@ topSections:
             textAlign: center
           text:
             textAlign: center
+          actions:
+            justifyContent: center
         actions:
           - label: Learn more
             altText: Learn more
