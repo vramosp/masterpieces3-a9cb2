@@ -1,6 +1,6 @@
 ---
 title: Colors
-date: '2019-02-10'
+date: ''
 excerpt: >-
 featuredImage:
   type: ImageBlock
