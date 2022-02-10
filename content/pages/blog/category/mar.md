@@ -92,7 +92,84 @@ topSections:
             iconPosition: right
             elementId: ''
             type: Link
-      
+      - elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        author: ''
+        rating: 1
+        isRatingVisible: false
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          title:
+            textAlign: left
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          text:
+            textAlign: left
+          actions:
+            justifyContent: flex-start
+      - elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        author: ''
+        rating: 1
+        isRatingVisible: false
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          title:
+            textAlign: left
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          text:
+            textAlign: left
+          actions:
+            justifyContent: flex-start
+    actions: []
+    columns: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: FeaturedItemsSection
 bottomSections: []
 layout: PostFeedCategoryLayout
 ---
