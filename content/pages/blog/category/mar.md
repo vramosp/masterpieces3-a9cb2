@@ -41,9 +41,8 @@ topSections:
             type: Link
       - type: FeaturedItem
         title: 2 years old
-        text: >
-          The year where we got stuck at home together and never stopped
-          creating.
+        text: |
+          The year...
         featuredImage:
           type: ImageBlock
           url: /images/art.jpg
