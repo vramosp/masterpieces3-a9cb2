@@ -10,7 +10,7 @@ postFeed:
   colors: colors-a
   actions: []
 topSections:
-  - colors: colors-h
+  - colors: colors-a
     elementId: ''
     items:
       - type: FeaturedItem
