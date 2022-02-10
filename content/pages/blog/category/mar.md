@@ -19,7 +19,7 @@ topSections:
           The year of the scribble scrabbles.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/mar-1yo.JPG
           altText: Item image
         styles:
           title:
