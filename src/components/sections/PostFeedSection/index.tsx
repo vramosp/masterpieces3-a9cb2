@@ -126,7 +126,7 @@ function postsVariantA(props) {
                     )}
                     <div className="px-4 py-6 sm:px-6 sm:pb-10">
                         {props.showDate && <PostDate post={post} />}
-                        <h1>
+                        <h2>
                             <Link href={getPageUrlPath(post)} data-sb-field-path="title">
                                 {post.title}
                             </Link>
