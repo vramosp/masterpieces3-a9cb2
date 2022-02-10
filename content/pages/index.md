@@ -68,10 +68,6 @@ sections:
         url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
         altText: Image one
         caption: Image one caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
-        altText: Image two
-        caption: Image two caption
     spacing: 1
     columns: 4
     aspectRatio: '16:9'
