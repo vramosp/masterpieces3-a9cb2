@@ -93,8 +93,9 @@ topSections:
             type: Link
       - type: FeaturedItem
         title: 3 years old
-        text: |
-          The year of all the colors of all the rainbows.
+        text: >
+          The year we learned about marble painting and lots of other fun ways
+          to make art.
         featuredImage:
           type: ImageBlock
           url: /images/mar-3yo.jpg
