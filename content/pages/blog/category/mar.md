@@ -42,7 +42,7 @@ topSections:
       - type: FeaturedItem
         title: 5 years old
         text: |
-          The year we couldn't stop making experiments with baking soda.
+          The year we got obsessed with Mars and the Solar System.
         featuredImage:
           type: ImageBlock
           url: /images/mar-5yo.jpg
