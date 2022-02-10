@@ -68,7 +68,7 @@ topSections:
       - type: FeaturedItem
         title: 4 years old
         text: |
-          The year of all the colors of all the rainbows.
+          The year we got stuck at home and became 'messers'.
         featuredImage:
           type: ImageBlock
           url: /images/mar-4yo.jpg
