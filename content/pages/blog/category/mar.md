@@ -119,6 +119,58 @@ topSections:
             iconPosition: right
             elementId: ''
             type: Link
+      - type: FeaturedItem
+        title: 3 years old
+        text: |
+          The year of all the colors of all the rainbows.
+        featuredImage:
+          type: ImageBlock
+          url: /images/focused.svg
+          altText: Item image
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+          actions:
+            justifyContent: center
+        actions:
+          - label: See all
+            altText: Learn more
+            url: /blog/category/layla-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
+      - type: FeaturedItem
+        title: 3 years old
+        text: |
+          The year of all the colors of all the rainbows.
+        featuredImage:
+          type: ImageBlock
+          url: /images/focused.svg
+          altText: Item image
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+          actions:
+            justifyContent: center
+        actions:
+          - label: See all
+            altText: Learn more
+            url: /blog/category/layla-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
     actions: []
     columns: 3
     styles:
