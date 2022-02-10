@@ -68,8 +68,8 @@ topSections:
       - type: FeaturedItem
         title: 4 years old
         text: >+
-          The year we got stuck at home and became 'messers' and making
-          experiments with baking soda.
+          The year we got stuck at home and became 'messers' and fell in love
+          with food coloring.
 
         featuredImage:
           type: ImageBlock
