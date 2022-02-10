@@ -16,6 +16,7 @@ export default function PageLayout(props) {
                         {page.title}
                     </h1>
                 )}
+                <div>hola</div>
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
