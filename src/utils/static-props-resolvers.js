@@ -77,7 +77,7 @@ const StaticPropsResolvers = {
             ...paginationData,
             items,
             layout: 'PostFeedLayout',
-            ostFeed: {
+            postFeed: {
                 showAuthor: true,
                 showDate: true,
                 variant: 'variant-d',
