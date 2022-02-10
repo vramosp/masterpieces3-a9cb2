@@ -47,7 +47,7 @@ topSections:
         featuredImage:
           type: ImageBlock
           url: /images/layla-2yo.jpg
-          altText: Item image
+          altText: Layla 2
         styles:
           title:
             textAlign: center
