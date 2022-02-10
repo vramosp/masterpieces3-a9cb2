@@ -1,5 +1,5 @@
 ---
-title: layla-1
+title: Layla - 1 year old
 numOfPostsPerPage: 0
 postFeed:
   title: null
