@@ -16,7 +16,7 @@ topSections:
       - type: FeaturedItem
         title: 6 years old
         text: |
-          The year of all the colors of all the rainbows.
+          The year we learned to write and became the president of the cat club.
         featuredImage:
           type: ImageBlock
           url: /images/96C62FE7-2E6A-446E-90F7-F22EF5D31AD0_1_105_c.jpeg
