@@ -10,6 +10,6 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 author: content/data/team/mar-a.json
-category: content/pages/blog/category/mar-1.md
+category: content/pages/blog/category/mar-2.md
 ---
 <img src="/images/mar1/3.jpg">
