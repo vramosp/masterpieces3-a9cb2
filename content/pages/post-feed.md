@@ -31,6 +31,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    showAuthor: true
+    showAuthor: false
 layout: PageLayout
 ---
