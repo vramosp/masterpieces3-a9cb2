@@ -35,7 +35,6 @@ export default function PostLayout(props) {
                         )}
                     </div>
                 </article>
-                title
                 {sections.length > 0 && (
                     <div data-sb-field-path="bottomSections">
                         {sections.map((section, index) => {
