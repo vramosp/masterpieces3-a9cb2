@@ -14,34 +14,6 @@ topSections:
     elementId: ''
     items:
       - type: FeaturedItem
-        title: 2 years old
-        text: >
-          The year where we got stuck at home together and never stopped
-          creating.
-        featuredImage:
-          type: ImageBlock
-          url: /images/mar-2yo.JPG
-          altText: Layla 2
-          caption: Layla 2
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
-          actions:
-            justifyContent: center
-        actions:
-          - label: See all
-            altText: Learn more
-            url: /blog/category/mar-2
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-            type: Link
-      - type: FeaturedItem
         title: 3 years old
         text: |
           The year of all the colors of all the rainbows.
@@ -140,6 +112,34 @@ topSections:
           - label: See all
             altText: Learn more
             url: /blog/category/layla-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
+      - type: FeaturedItem
+        title: 2 years old
+        text: >
+          The year where we got stuck at home together and never stopped
+          creating.
+        featuredImage:
+          type: ImageBlock
+          url: /images/mar-2yo.JPG
+          altText: Layla 2
+          caption: Layla 2
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+          actions:
+            justifyContent: center
+        actions:
+          - label: See all
+            altText: Learn more
+            url: /blog/category/mar-2
             showIcon: true
             icon: arrowRight
             iconPosition: right
