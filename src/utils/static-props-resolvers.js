@@ -27,16 +27,16 @@ export function resolveStaticProps(urlPath, data) {
         ...data.props
     };
     return mapDeepAsync(
-      props,
-      async (value, keyPath, stack) => {
-          const objectType = value?.type || value?.layout;
-          if (objectType && StaticPropsResolvers[objectType]) {
-              const resolver = StaticPropsResolvers[objectType];
-              return resolver(value, data, { keyPath, stack });
-          }
-          return value;
-      },
-      { postOrder: true }
+        props,
+        async (value, keyPath, stack) => {
+            const objectType = value?.type || value?.layout;
+            if (objectType && StaticPropsResolvers[objectType]) {
+                const resolver = StaticPropsResolvers[objectType];
+                return resolver(value, data, { keyPath, stack });
+            }
+            return value;
+        },
+        { postOrder: true }
     );
 }
 
@@ -76,7 +76,7 @@ const StaticPropsResolvers = {
             ...props,
             ...paginationData,
             items,
-            layout: 'PostFeedLayout',
+            layout: 'PageLayout',
             postFeed: {
                 showAuthor: true,
                 showDate: true,
