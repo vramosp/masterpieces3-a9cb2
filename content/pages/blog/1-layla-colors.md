@@ -2,7 +2,7 @@
 title: Colors
 date: '2019-02-10'
 excerpt: >-
-  This is a 
+  
 featuredImage:
   type: ImageBlock
   url: '/images/layla1/1-colors.jpeg'
