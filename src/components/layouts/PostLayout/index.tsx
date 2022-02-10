@@ -35,6 +35,7 @@ export default function PostLayout(props) {
                         )}
                     </div>
                 </article>
+                title
                 {sections.length > 0 && (
                     <div data-sb-field-path="bottomSections">
                         {sections.map((section, index) => {
@@ -87,8 +88,8 @@ function postAuthor(author) {
             {children}
         </Link>
     ) : (
-        <span data-sb-field-path="author">{children}</span>
-    );
+            <span data-sb-field-path="author">{children}</span>
+        );
 }
 
 function postCategory(category) {
