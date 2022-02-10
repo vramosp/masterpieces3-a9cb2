@@ -67,8 +67,10 @@ topSections:
             type: Link
       - type: FeaturedItem
         title: 4 years old
-        text: |
-          The year we got stuck at home and became 'messers'.
+        text: >+
+          The year we got stuck at home and became 'messers' and making
+          experiments with baking soda.
+
         featuredImage:
           type: ImageBlock
           url: /images/mar-4yo.jpg
