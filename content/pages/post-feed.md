@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Post feed
 sections:
   - type: PostFeedSection
     variant: variant-a
