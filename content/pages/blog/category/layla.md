@@ -30,9 +30,9 @@ topSections:
             textAlign: center
       - type: FeaturedItem
         title: 2 years old
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          The year where we got stuck at home together and never stopped
+          creating.
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
