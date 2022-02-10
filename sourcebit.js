@@ -70,8 +70,7 @@ module.exports = {
                             __metadata: {
                                 ...__metadata,
                                 urlPath,
-                                pageCssClasses: cssClassesFromFilePath(page.__metadata.relSourcePath),
-                                test
+                                pageCssClasses: cssClassesFromFilePath(page.__metadata.relSourcePath)
                             },
                             ...restProps
                         };
