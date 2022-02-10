@@ -1,5 +1,5 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: Top 20
 date: '2021-01-05'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
