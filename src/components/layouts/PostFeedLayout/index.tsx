@@ -44,7 +44,7 @@ function renderSections(sections: any[], fieldName: string) {
     );
 }
 
-//
+
 function PageLinks({ pageIndex, baseUrlPath, numOfPages }) {
     if (numOfPages < 2) {
         return null;
