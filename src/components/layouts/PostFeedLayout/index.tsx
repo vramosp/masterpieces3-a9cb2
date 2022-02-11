@@ -10,7 +10,6 @@ export default function PostFeedLayout(props) {
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const { title, topSections = [], bottomSections = [], pageIndex, baseUrlPath, numOfPages, items, postFeed } = page;
     const PostFeedSection = getComponent('PostFeedSection');
-    const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
 
     return (
         <BaseLayout page={page} site={site}>
